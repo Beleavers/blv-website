@@ -5,7 +5,7 @@ BLV (Believers Token) is a discipline-driven Web3 project built on Algorand.
 Focused on belief, strategy, and long-term value — not hype.
 
 ## 🔗 Website
-https://blv-website.netlify.app/
+https://blvpoker.netlify.app/#tokenomics
 
 ## 🌐 Community
 - Discord: https://discord.gg/zBe5bteBR
